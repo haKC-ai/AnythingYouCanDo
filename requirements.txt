@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+Pillow
+pyotp
+qrcode
+selenium
+beautifulsoup4
+pandas
